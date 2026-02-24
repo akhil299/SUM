@@ -1,5 +1,5 @@
 a = 1 ;
 b = 2 ;
 c = 4;
-d = a+b;
+d = a+b+c;
 print(d);
